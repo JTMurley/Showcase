@@ -3,7 +3,7 @@ This Git Reposistory displays some of the cool things that I have done as apart 
 
 The display ranges from code to reports to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics to a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
 
-Currently I have two brances
+Currently I have two branches
 - Reports
 - Code
 
