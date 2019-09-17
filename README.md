@@ -8,7 +8,7 @@
 
 ![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
 
-![](https://placehold.it/350x90/009955/fff?text=Hey!)
+![](https://placehold.it/400x90/009955/fff?text=Hey!)
 # Hey
 
 
