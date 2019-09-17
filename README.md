@@ -1,7 +1,9 @@
 # Hey
 
 
-![Farmers Market Finder Demo](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
+![Robot Dancing](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
+
+My name's Jack, I'm currently a second year computer science student at Deakin University with a interest in not only Robotics but also IOT technology. On top of my studies I currently teach first year robotics at Deakin University to over 300 students every year so far.
 
 This Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work.
 
