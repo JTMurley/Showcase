@@ -22,8 +22,8 @@ The display ranges from code to reports to major projects on a range of topcis t
 
 Currently I have two branches (I prefer the layout for this type of thing) for you to explore with more on the way (hopefully):
 - [Reports](https://github.com/JTMurley/Showcase/tree/Reports) ![](https://placehold.it/12/ff0000?text=+)
-- [Code](https://github.com/JTMurley/Showcase/tree/Code) ![](https://placehold.it/15/9900c5?text=+)
-- Research(COMING SOON!) !(https://placehold.it/20/157500?text=+)
+- [Code](https://github.com/JTMurley/Showcase/tree/Code) ![](https://placehold.it/12/9900c5?text=+)
+- Research(COMING SOON!) ![](https://placehold.it/12/157500?text=+)
 
 
 ## Videos
