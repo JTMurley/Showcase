@@ -1,4 +1,4 @@
-# Hey :neckbeard:
+# Hey Stranger :neckbeard:
 
 ![Robot Dancing](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
