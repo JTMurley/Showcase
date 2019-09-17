@@ -10,7 +10,7 @@ This Git Reposistory displays some of the cool things that I have done as apart 
 The display ranges from code to reports to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics to a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
 
 Currently I have two branches (I prefer the layout for this type of thing) for you to explore with more on the way (hopefully):
-- Reports
+- Reports [This is your link text](https://github.com/JTMurley/Showcase/tree/Reports)
 - Code
 
 
