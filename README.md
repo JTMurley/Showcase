@@ -15,5 +15,5 @@ Currently I have two branches (I prefer the layout for this type of thing) for y
 
 
 ## Videos
-Some videos of the projects/tasks showcase can be found at the following but note I study comp sci and not audio and visual production so mind the quality! - [YouTube Channel](https://www.youtube.com/channel/UCrvA68VZDAWxJ2BbnZW891Q?view_as=subscriber)
+Some videos of the projects/tasks showcase can be found at the following but note I study comp sci and not audio and visual production so mind the quality! - [YouTube Channel - JTMurley](https://www.youtube.com/channel/UCrvA68VZDAWxJ2BbnZW891Q?view_as=subscriber)
 
