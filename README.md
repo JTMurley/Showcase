@@ -4,9 +4,9 @@
 
 _My name's **Jack**_, I'm currently a second year computer science student at Deakin University with a interest in not only Robotics but also IOT technology, however my true passion is creating code that is capable of doing scalable swarming actions. On top of my studies I currently **teach first year robotics at Deakin University** to over 300 students every year so far as well. Furthermore I am also involved in a variety of **research projects** that deal around using AI to create more effective swarming actions for real world scenarios.
 
-This Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do.
+This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do.
 
-The display ranges from code to reports to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics to a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
+This small display of my work ranges from speciifc unique code I have written to reports then to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
 
 Currently I have two branches (I prefer the layout for this type of thing) for you to explore with more on the way (hopefully):
 - [Reports](https://github.com/JTMurley/Showcase/tree/Reports) ![](https://placehold.it/12/ff0000?text=+)
