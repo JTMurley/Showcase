@@ -2,7 +2,9 @@
 
 ![Robot Dancing](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
-_My name's **Jack**_, I'm currently a second year computer science student at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology, however my true passion is creating code that is capable of doing scalable swarming actions. On top of my studies I currently **teach first year robotics at Deakin University** to over 300 students every year so far as well. Furthermore I am also involved in a variety of **research projects** that deal around using AI to create more effective swarming actions for real world scenarios.
+_My name's **Jack**_, I'm currently a second year computer science student at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology. However my true passion while creating code is writing code that is capable of doing scalable swarming actions. 
+
+On top of my studies I currently **teach first year robotics at Deakin University** to over 300 students every year so far as well. Furthermore I am also involved in a variety of **research projects** that deal around using AI to create more effective swarming actions for real world scenarios.
 
 This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do.
 
