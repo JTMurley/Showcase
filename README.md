@@ -6,7 +6,7 @@ _My name's **Jack**_, I'm currently a second year computer science student at De
 
 On top of my studies I currently **teach first year robotics at Deakin University** to over 300 students every year so far as well. Furthermore I am also involved in a variety of **research projects** that deal around using AI to create more effective swarming actions for real world scenarios such as search and rescue in the outback.
 
-This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do.
+This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
 This small display of my work ranges from specific unique code I have written to reports then to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
 
