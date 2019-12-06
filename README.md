@@ -2,7 +2,7 @@
 
 ![Robot Dancing](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
-_My name's **Jack**_, I'm currently a second year computer science student and Associate Research Fellow (Swarm robotics) at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology. However my true passion while creating code is writing code that is capable of doing scalable swarming actions. 
+_My name's **Jack**_, I'm currently a second year computer science student and **Associate Research Fellow (Swarm robotics)** at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology. However my true passion while creating code is writing code that is capable of doing scalable swarming actions. 
 
 On top of my studies I currently **teach first year robotics at Deakin University** to over 300 students every year so far as well. Furthermore I am also involved in a variety of **research projects** that deal around using AI to create more effective swarming actions for real world scenarios such as search and rescue in the outback.
 
