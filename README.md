@@ -2,7 +2,11 @@
 
 <p align="centre">
 ![Robot Dancing](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif
-</p>  
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif">
+</p>
 
 _My name's **Jack**_, I'm currently a second year computer science student and **Associate Research Fellow (Swarm robotics)** at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology. However my true passion while creating code is writing code that is capable of doing scalable swarming actions. 
 
