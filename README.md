@@ -11,7 +11,7 @@ This little Git Reposistory displays some of the cool things that I have done as
 
 This small display of my work ranges from specific unique code I have written to reports then to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
 
-Currently I have three branches (I prefer the layout for this type of thing) for you to explore with more on the way (hopefully):
+Currently I have three branches (I prefer the layout for this type of thing) for you to explore:
 - [Reports](https://github.com/JTMurley/Showcase/tree/Reports)
 - [Code](https://github.com/JTMurley/Showcase/tree/Code) 
 - [Research](https://github.com/JTMurley/Showcase/blob/Research/README.md)
