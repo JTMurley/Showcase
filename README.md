@@ -14,7 +14,7 @@ This small display of my work ranges from specific unique code I have written to
 Currently I have two branches (I prefer the layout for this type of thing) for you to explore with more on the way (hopefully):
 - [Reports](https://github.com/JTMurley/Showcase/tree/Reports)
 - [Code](https://github.com/JTMurley/Showcase/tree/Code) 
-- Research(COMING SOON! 2020)
+- [Research](https://github.com/JTMurley/Showcase/blob/Research/README.md)
 
 
 ## Visual Demonstration/Videos
