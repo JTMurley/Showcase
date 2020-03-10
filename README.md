@@ -8,7 +8,7 @@ _My name's **Jack**_, I'm currently in my final year of my computer science degr
 Throughout my degree I have worked in the following IT based roles:
 - Assoicate Research Fellow in the area of swarm robotics
 - Teaching Assistant within the first year robotics unit at Deakin University SIT122
-- School of IT outreach ambassador where I primarily taught robotics to school aged children between 5 and 18 years of age
+- School of IT outreach ambassador where I primarily teach robotics to school aged children between 5 and 18 years of age
 - School of SEBE Student ambassador where I focus on promoting and encouraging high school aged students to study STEM
 
 This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
