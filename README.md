@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif">
 </p>
 
-_My name's **Jack**_, I'm currently in my final year of my computer science degree and work as an **Associate Research Fellow (Swarm robotics)** at Deakin University with a interest in not only Robotics :robot: but also embedded IOT technology. However my true passion is in the field of autonomous node/robotic scalability based off of the sense think act paradigm.
+_My name's **Jack**_, I'm currently in my final year of my computer science degree and work as an **Associate Research Fellow (Swarm robotics)** at Deakin University with a interest in not only Robotics :robot: but also ITBM systems like service now and CRM systems and embedded IOT technology. However my true passion is in the field of autonomous node/robotic scalability based off of the sense think act paradigm.
 
 Throughout my degree I have worked in the following IT based roles:
 - Assoicate Research Fellow in the area of swarm robotics
