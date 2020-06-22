@@ -25,6 +25,6 @@ Currently I have three branches (I prefer the layout for this type of thing) for
 Some videos of the projects/tasks showcase can be found at the following but note I study comp sci and not audio and visual production so mind the quality! - [YouTube Channel - JTMurley](https://www.youtube.com/channel/UCrvA68VZDAWxJ2BbnZW891Q?view_as=subscriber)
 
 ## Coding Challenge Websites Profiles
-When I get bored or just want a hard problem to solve I often go to coding challenge websites to have some fun. My some of my profiles can be found at the following:
+When I get bored or just want a hard problem to solve I often go to coding challenge websites to have some fun. My some of my profiles can be found below. I also make some challenges up myself and then solve them and post them onto the website itself, currently I only do this on the edabit platform.
 - [Edabit](https://edabit.com/user/dqTMueDRX74bzpNex)
 
