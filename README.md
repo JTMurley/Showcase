@@ -26,5 +26,5 @@ Some videos of the projects/tasks showcase can be found at the following but not
 
 ## Coding Challenge Websites Profiles
 When I get bored or just want a hard problem to solve I often go to coding challenge websites to have some fun. My some of my profiles can be found below. I also make some challenges up myself and then solve them and post them onto the website itself, currently I only do this on the edabit platform.
-- [Edabit](https://edabit.com/user/dqTMueDRX74bzpNex)- [Challenge 1](https://edabit.com/challenge/fY5y4WFdha4betoFz)
+- [Edabit](https://edabit.com/user/dqTMueDRX74bzpNex) - [Challenge 1](https://edabit.com/challenge/fY5y4WFdha4betoFz)
 
