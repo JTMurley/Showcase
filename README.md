@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif">
 </p>
 
-_My name's **Jack**_, I'm currently in my final year of my computer science degree and work as an **Associate Research Fellow (Swarm robotics)** at Deakin University with a interest in not only Robotics :robot: but also ITBM systems like service now and CRM systems as well as embedded IOT technology. However my true passion is in the field of autonomous node/robotic scalability based off of the sense think act paradigm.
+_My name's **Jack**_, I'm currently in my final year of my computer science degree and work as an **Associate Research Fellow (Swarm robotics)** at Deakin University with an interest in not only Robotics :robot: but also ITBM systems like service now and CRM systems as well as embedded IOT technology. However, my true passion is in the field of autonomous node/robotic scalability based off of the sense think act paradigm.
 
 Throughout my degree I have worked in the following IT based roles:
 - Assoicate Research Fellow in the area of swarm robotics
@@ -11,9 +11,9 @@ Throughout my degree I have worked in the following IT based roles:
 - School of IT outreach ambassador where I primarily teach robotics to school aged children between 5 and 18 years of age
 - School of SEBE Student ambassador where I focus on promoting and encouraging high school aged students to study STEM
 
-This little Git Reposistory displays some of the cool things that I have done as apart of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
+This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
-This small display of my work ranges from specific unique code I have written to reports then to major projects on a range of topcis that are mathmatical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as alot of code from alot of different projects.
+This small display of my work ranges from specific, unique code I have written to reports then to major projects on a range of topics that are mathematical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as a lot of code from a lot of different projects
 
 Currently I have three branches (I prefer the layout for this type of thing) for you to explore:
 - [Reports](https://github.com/JTMurley/Showcase/tree/Reports) :book:
