@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif">
 </p>
 
-_Hi, my name's **Jack** and I make people :smile:_, I'm a practical computer scientist with proven industry experience in delivering not only what the client wants, but what they always **dreamed the application could be**. I'm currently in my final trimester of my computer science degree at Deakin University and most importantly of all, **I love to code :code:**.
+_Hi, my name's **Jack** and I make people :smile:_, I'm a practical computer scientist with proven industry experience in delivering not only what the client wants, but what they always **dreamed the application could be**. I'm currently in my final trimester of my computer science degree at Deakin University and most importantly of all, **I love to code**.
 
 Throughout my degree I have worked in the following IT based roles:
 - Systems Officer focused on EDW development from the ground up and real time data analysis
