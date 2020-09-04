@@ -3,12 +3,12 @@
   <img width="460" height="300" src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif">
 </p>
 
-_My name's **Jack**_, I'm currently in my final year of my computer science degree and work as an **Associate Research Fellow (Swarm robotics)** at Deakin University with an interest in not only Robotics :robot: but also ITBM systems like service now and CRM systems as well as embedded IOT technology. However, my true passion is in the field of autonomous node/robotic scalability based off of the sense think act paradigm.
+_My name's **Jack**_, I'm a practical computer scientist with proven industry experience in delivering not only what the client wants, but what they always **dreamed the application could be**. I'm currently in my final trimester of my computer science degree at Deakin University and most importantly of all, **I love to code**.
 
 Throughout my degree I have worked in the following IT based roles:
 - Assoicate Research Fellow in the area of swarm robotics
 - Teaching Assistant within the first year robotics unit at Deakin University, SIT122
-- School of IT outreach ambassador where I primarily teach robotics to school aged children between 5 and 18 years of age
+- School of IT outreach ambassador (Interactive robotics based workshops)
 - School of SEBE Student ambassador where I focus on promoting and encouraging high school aged students to study STEM
 
 This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
