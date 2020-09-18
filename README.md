@@ -15,7 +15,7 @@ Throughout my degree I have worked in the following IT based roles:
 This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
 ## Project Repo's
-- [Mindful Mirror](https://github.com/JTMurley/SIT312), Complete
+- [Mindful Mirror](https://github.com/JTMurley/Mindful-Mirror), Complete
 - [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
 - [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), WIP Page
 
