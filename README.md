@@ -32,3 +32,6 @@ When I get bored or just want a hard problem to solve I often go to coding chall
 ## Power Bi Dashbaords
 A significant area of interest of mine lately has been reporting tools, more specifically building dashboards. Why? The immense power and benefit they can provide to companies in todays digital workplace when paired with the correct tools such as Power Bi and Tableau. Nevertheless, some sample dashboards I have made public can be seen below (note QnA does not work when published public):
 - [MInD Lab Team Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE0YzYwZDQtMDBjMy00MzcyLWFmYjAtMTcyMzdhYWQ5NTE1IiwidCI6IjcyMmVhMGJlLTNlMWMtNGIxMS1hZDZmLTk0MDFkNjg1NmUyNCJ9)
+
+## Project Repo's
+- [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
