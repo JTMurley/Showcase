@@ -16,6 +16,7 @@ This little Git Repository displays some of the cool things that I have done as 
 
 ## Project Repo's
 - [Mindful Mirror](https://github.com/JTMurley/Mindful-Mirror), Complete
+- [Autonomous-MADRL-Searching-in-Hostile-Environments](https://github.com/JTMurley/Autonomous-MADRL-Searching-in-Hostile-Environments/blob/master/README.md)
 - [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
 - [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), WIP Page
 
