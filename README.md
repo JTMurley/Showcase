@@ -15,7 +15,7 @@ Throughout my degree I have worked in the following IT based roles:
 This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
 ## Project Repo's
-- [Mindful Mirror](https://github.com/JTMurley/SIT312)
+- [Mindful Mirror](https://github.com/JTMurley/SIT312), Complete
 - [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
 - [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), WIP Page
 
@@ -31,4 +31,5 @@ A significant area of interest of mine lately has been reporting tools, more spe
 - [MInD Lab Team Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE0YzYwZDQtMDBjMy00MzcyLWFmYjAtMTcyMzdhYWQ5NTE1IiwidCI6IjcyMmVhMGJlLTNlMWMtNGIxMS1hZDZmLTk0MDFkNjg1NmUyNCJ9)
 
 ## Misc Code Showcase
+-[Data Structures]
 
