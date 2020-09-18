@@ -14,13 +14,7 @@ Throughout my degree I have worked in the following IT based roles:
 
 This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
-This small display of my work ranges from specific, unique code I have written to reports then to major projects on a range of topics that are mathematical graph based problems to vectors in 3D planes for robotics and then a complete reverse to having a UCD breakdown of CAV's website as well as a lot of code from a lot of different projects
-
-Currently I have three branches (I prefer the layout for this type of thing) for you to explore:
-- [Reports](https://github.com/JTMurley/Showcase/tree/Reports) :book:
-- [Code](https://github.com/JTMurley/Showcase/tree/Code) :atom: 
-- [Research](https://github.com/JTMurley/Showcase/blob/Research/README.md) :mortar_board:
-
+This small display of my work ranges from specific, unique projects I've made over the years to reports on all area's of IT.
 
 ## Visual Demonstration/Videos
 Some videos of the projects/tasks showcase can be found at the following but note I study comp sci and not audio and visual production so mind the quality! - [YouTube Channel - JTMurley](https://www.youtube.com/channel/UCrvA68VZDAWxJ2BbnZW891Q?view_as=subscriber)
