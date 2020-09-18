@@ -31,5 +31,5 @@ A significant area of interest of mine lately has been reporting tools, more spe
 - [MInD Lab Team Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE0YzYwZDQtMDBjMy00MzcyLWFmYjAtMTcyMzdhYWQ5NTE1IiwidCI6IjcyMmVhMGJlLTNlMWMtNGIxMS1hZDZmLTk0MDFkNjg1NmUyNCJ9)
 
 ## Misc Code Showcase
-- [Data Structures] (https://github.com/JTMurley/Data-Structures), WIP Page
+- Data Structures (https://github.com/JTMurley/Data-Structures), WIP Page
 
