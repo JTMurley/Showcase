@@ -41,4 +41,5 @@ A significant area of interest of mine lately has been reporting tools, more spe
 
 ## Misc Code Showcase
 - [Data Structures](https://github.com/JTMurley/Data-Structures), WIP Page
+- [AI Implementations](https://github.com/JTMurley/AI_Project), WIP Page
 
