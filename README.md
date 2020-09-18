@@ -24,6 +24,7 @@ This little Git Repository displays some of the cool things that I have done as 
 - [Cooperative Swarm Behavior Generation for Multi-Platform Surveillance](https://github.com/JTMurley/Reports/blob/master/Reports/Cooperative%20Swarm%20Behavior%20Generation%20for%20Multi-Platform%20Surveillance/Cooperative%20Swarm%20Behvaiour%20Generation%20for%20Multi-Platform%20Surveillance%20Research%20Report.pdf)
 - [Extended Usability Study on Educational Programming Software Aimed at School Aged Individuals](https://github.com/JTMurley/Reports/blob/master/Reports/Extended%20Usability%20Study%20on%20Educational%20Programming%20Software%20Aimed%20at%20School%20Aged%20Individuals/Extended%20Usability%20Study%20on%20Educational%20Programming%20Software%20Aimed%20at%20School%20Aged%20Individuals.pdf)
 - [Usability Report - Choregraphe](https://github.com/JTMurley/Reports/blob/master/Reports/Usability%20Report%20Choregraphe/Usability%20Report%20-%20Choregraphe.pdf)
+- [Think Make Learn Design Proposal](https://github.com/JTMurley/Reports/tree/master/Reports/Think%20Make%20Learn%20Proposal) 
 
 
 ## Visual Demonstration/Videos
