@@ -16,7 +16,7 @@ This little Git Repository displays some of the cool things that I have done as 
 
 ## Project Repo's
 - [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
-- [Interactive Gallery Art Piece](https://github.com/JTMurley/Interactive-Art-), WIP Page
+- [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), WIP Page
 
 ## Visual Demonstration/Videos
 Some videos of the projects/tasks showcase can be found at the following but note I study comp sci and not audio and visual production so mind the quality! - [YouTube Channel - JTMurley](https://www.youtube.com/channel/UCrvA68VZDAWxJ2BbnZW891Q?view_as=subscriber)
