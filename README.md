@@ -15,10 +15,10 @@ Throughout my degree I have worked in the following IT based roles:
 This little Git Repository displays some of the cool things that I have done as a part of my university degree (Bachelor of Computer Science) as well as some of the things that I've made when bored of doing university work because some of the time its not the most fun to do. Nevertheless, it also showcases some of my research projects.
 
 ## Project Repo's
-- [Mindful Mirror](https://github.com/JTMurley/Mindful-Mirror), Complete
-- [Autonomous-MADRL-Searching-in-Hostile-Environments](https://github.com/JTMurley/Autonomous-MADRL-Searching-in-Hostile-Environments/blob/master/README.md), WIP Page
-- [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), WIP Page
-- [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), WIP Page
+- [Mindful Mirror](https://github.com/JTMurley/Mindful-Mirror), Complete (Discontinued)
+- [Autonomous-MADRL-Searching-in-Hostile-Environments](https://github.com/JTMurley/Autonomous-MADRL-Searching-in-Hostile-Environments/blob/master/README.md), WIP Page (Active)
+- [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), Complete (Discontinued)
+- [Interactive Art/LCD Display](https://github.com/JTMurley/Interactive-Art-), Complete (Discontinued)
 
 ## Reports
 - [Needs and Functional requirements of a Smart Home for an Aged Population](https://github.com/JTMurley/Reports/blob/master/Reports/Needs%20and%20functional%20requirements%20of%20a%20Smart%20Home%20for%20an%20Aged%20Population/Needs%20and%20functional%20requirements%20of%20a%20Smart%20Home%20for%20an%20Aged%20Population.pdf)
