@@ -36,6 +36,7 @@ Some videos of the projects/tasks showcase can be found at the following but not
 ## Coding Challenges
 When I get bored or just want a hard problem to solve I often go to coding challenge websites to have some fun. Some of my profiles can be found below. I also make some challenges up myself and then solve them and post them onto the website itself, currently I only do this on the edabit platform.
 - [Edabit](https://edabit.com/user/dqTMueDRX74bzpNex) - [Challenge 1](https://edabit.com/challenge/fY5y4WFdha4betoFz)
+- [CodinGame](https://www.codingame.com/profile/ae1f433d5434f45a4cdd47673c3093066186004)
 
 ## Power Bi Dashbaords
 A significant area of interest of mine lately has been reporting tools, more specifically building dashboards. Why? The immense power and benefit they can provide to companies in todays digital workplace when paired with the correct tools such as Power Bi and Tableau. Nevertheless, some sample dashboards I have made public can be seen below (note QnA does not work when published public):
