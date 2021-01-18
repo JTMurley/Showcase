@@ -16,6 +16,7 @@ This little Git Repository displays some of the cool things that I have done as 
 
 ## Project Repo's
 - [Mindful Mirror](https://github.com/JTMurley/Mindful-Mirror), Complete (Discontinued)
+- MInD Lab Power Bi Team Dashboard, Complete (Discontinued)
 - [Autonomous-MADRL-Searching-in-Hostile-Environments](https://github.com/JTMurley/Autonomous-MADRL-Searching-in-Hostile-Environments/blob/master/README.md), WIP Page (Active)
 - Real Time IoT Data Analytics in Power Bi, Page To Come
 - [Survivor League](https://github.com/JTMurley/SurvivorLeagueExeFiles), Complete (Discontinued)
